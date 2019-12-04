@@ -5,5 +5,5 @@
    so make sure to get a new one after it expires! */
 
 export const API_KEY = {
-    'apiKey': '?api_key=*INSERT API KEY HERE *',
+    'apiKey': '?api_key=RGAPI-8d6f25bc-3052-4edf-8211-bf294073f5be',
 }
