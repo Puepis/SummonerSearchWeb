@@ -3,7 +3,7 @@
 [Summoner Search]( http://Puepis.github.io/lolsearcher) is a basic web application that uses the Riot Games API to
 retrieve and display summoner information.
 
-## Using the Application
+## Getting Started
 To use the application, you will need to use your own Riot Games API Key and add it to the key.js file.
 
 `Note: API keys expire every 24 hours`
