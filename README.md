@@ -13,6 +13,7 @@ Currently I am trying to set up a proxy to avoid CORS "issues" that prevent data
 
 ## Built With
 * [React](https://reactjs.org/) - A JavaScript library used to develop web applications
+* [Riot Games API](https://developer.riotgames.com/apis) - The official Riot Games API used to retrieve profile data
 
 ## Author
 
