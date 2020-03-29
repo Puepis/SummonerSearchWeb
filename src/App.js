@@ -52,8 +52,11 @@ class App extends React.Component {
 
         try {
 
-            // Basic summoner info (profile pic id, name, level)
             const summonerIDResponse = await
+                axios.get("http://localhost:3000/lol/summoner/v4/summoners/by-name/Puepis?api_key=RGAPI-92a7f330-c5a0-4d91-a2bf-7116fc886806");
+
+            // Basic summoner info (profile pic id, name, level)
+            /*const summonerIDResponse = await
                 axios.get(constants.URL['base'].formatUnicorn({
                     region: this.state.region,
                     url: constants.URL['summoner_by_name'].formatUnicorn({
@@ -91,7 +94,7 @@ class App extends React.Component {
                 basicSummonerInfo: summonerIDResponse.data,
                 rankedData: rankedInfoResponse.data,
                 responseCode: summonerIDResponse.status,
-            });
+            });*/
         }
         catch (error) {
             this.setState({responseCode: 400})
