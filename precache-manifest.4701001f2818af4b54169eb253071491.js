@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1fa70fe621398bd2e729d83e6e148bcc",
+    "revision": "f6fd8bc8f3c08b39a3bd6290ed2433c3",
     "url": "/lolsearcher/index.html"
   },
   {
-    "revision": "56e01cffe2a5c032f943",
+    "revision": "26aa66631667ea4e4a7c",
     "url": "/lolsearcher/static/css/main.5744efd8.chunk.css"
   },
   {
-    "revision": "c65f573ca6590c8bbf33",
-    "url": "/lolsearcher/static/js/2.2deaf118.chunk.js"
+    "revision": "40ce23505d21b0d29951",
+    "url": "/lolsearcher/static/js/2.02c1136d.chunk.js"
   },
   {
-    "revision": "56e01cffe2a5c032f943",
-    "url": "/lolsearcher/static/js/main.9b40efb6.chunk.js"
+    "revision": "26aa66631667ea4e4a7c",
+    "url": "/lolsearcher/static/js/main.7bc321ec.chunk.js"
   },
   {
     "revision": "c8e1425259888d014fbb",
