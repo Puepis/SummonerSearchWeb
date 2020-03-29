@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7851818e03627b7ff3ba8a6304fa28ea",
+    "revision": "6c2f2df1e16918ebbded587cd63826bc",
     "url": "/lolsearcher/index.html"
   },
   {
-    "revision": "37591739e671002bca93",
+    "revision": "f574cdbe62f0f092675d",
     "url": "/lolsearcher/static/css/main.5744efd8.chunk.css"
   },
   {
-    "revision": "f7a97d92b636190e22b1",
-    "url": "/lolsearcher/static/js/2.e9a456ee.chunk.js"
+    "revision": "e2ee4960e386eb46a7df",
+    "url": "/lolsearcher/static/js/2.1eeea1b3.chunk.js"
   },
   {
-    "revision": "37591739e671002bca93",
-    "url": "/lolsearcher/static/js/main.a753d0d8.chunk.js"
+    "revision": "f574cdbe62f0f092675d",
+    "url": "/lolsearcher/static/js/main.b1e93d24.chunk.js"
   },
   {
     "revision": "c8e1425259888d014fbb",
@@ -44,28 +44,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lolsearcher/static/media/iron.d283cf7a.png"
   },
   {
-    "revision": "1169f44704e5c28aec109244daa4568a",
-    "url": "/lolsearcher/static/media/lol_icon.1169f447.ico"
-  },
-  {
-    "revision": "4927dbc288ebf7b1b6b0556b74015e67",
-    "url": "/lolsearcher/static/media/lol_icon.4927dbc2.png"
-  },
-  {
-    "revision": "fad9106986ec7bbd744b9ef53b3c4814",
-    "url": "/lolsearcher/static/media/ls_icon.fad91069.ico"
-  },
-  {
     "revision": "1b77ca936792dcfb9b121f5b1322ed4d",
     "url": "/lolsearcher/static/media/master.1b77ca93.png"
   },
   {
     "revision": "32742990acfd0509f5b8c50851e31d63",
     "url": "/lolsearcher/static/media/platinum.32742990.png"
-  },
-  {
-    "revision": "3ad0652bd17ff826a31fa29366021cfd",
-    "url": "/lolsearcher/static/media/robots.3ad0652b.txt"
   },
   {
     "revision": "61992f040bb8b6b052dce01afeba4a70",
