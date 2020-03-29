@@ -12,6 +12,9 @@ import * as key from './constants/key';
 // Styling
 import './App.css';
 
+// String formatting
+import formatUnicorn from 'format-unicorn';
+
 // Makes HTTP Requests
 import axios from 'axios';
 
