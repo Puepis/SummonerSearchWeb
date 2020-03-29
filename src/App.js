@@ -12,9 +12,6 @@ import * as key from './constants/key';
 // Styling
 import './App.css';
 
-// String formatting
-import formatUnicorn from 'format-unicorn';
-
 // Makes HTTP Requests
 import axios from 'axios';
 
@@ -51,6 +48,7 @@ class App extends React.Component {
         // 3. else, continue with requests
 
         try {
+
             // Basic summoner info (profile pic id, name, level)
             const summonerIDResponse = await
                 axios.get(constants.URL['base'].formatUnicorn({
@@ -61,6 +59,7 @@ class App extends React.Component {
                         api_key: this.state.apiKey
                     })
                 }));
+
 
             // Make second HTTP request for ranked info (using id)
             const rankedInfoResponse = await axios.get(constants.URL['base'].formatUnicorn({

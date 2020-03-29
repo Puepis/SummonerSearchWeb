@@ -2,6 +2,7 @@
 /* This file contains the constants that are used to construct the URL for the HTTP Request */
 
 export const URL = {
+    'url': '/lol/{url}',
     'base': 'https://{region}.api.riotgames.com/lol/{url}',
     'summoner_by_name': 'summoner/v{version}/summoners/by-name/{summoner_name}{api_key}',
     'league_by_summoner': 'league/v{version}/entries/by-summoner/{summoner_id}{api_key}',
@@ -20,8 +21,12 @@ export const API_VERSIONS = {
 }
 
 export const DATA_DRAGON_VERSIONS = {
-    'profileicon': '9.23.1',
-    'champion' : '9.23.1'
+    'profileicon': '10.6.1',
+    'champion' : '10.6.1',
+    'item': '10.6.1',
+    'summoner': '10.6.1',
+    'mastery': '7.23.1',
+    'rune': '7.23.1'
 }
 
 export const REGIONS = {
