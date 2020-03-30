@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/lolsearcher/static/css/main.5744efd8.chunk.css",
-    "main.js": "/lolsearcher/static/js/main.f6f46154.chunk.js",
-    "main.js.map": "/lolsearcher/static/js/main.f6f46154.chunk.js.map",
+    "main.js": "/lolsearcher/static/js/main.814569dc.chunk.js",
+    "main.js.map": "/lolsearcher/static/js/main.814569dc.chunk.js.map",
     "runtime-main.js": "/lolsearcher/static/js/runtime-main.63c81fc7.js",
     "runtime-main.js.map": "/lolsearcher/static/js/runtime-main.63c81fc7.js.map",
     "static/js/2.0fc87975.chunk.js": "/lolsearcher/static/js/2.0fc87975.chunk.js",
     "static/js/2.0fc87975.chunk.js.map": "/lolsearcher/static/js/2.0fc87975.chunk.js.map",
     "index.html": "/lolsearcher/index.html",
-    "precache-manifest.97bccefcf9ee4d9a9969df51209df798.js": "/lolsearcher/precache-manifest.97bccefcf9ee4d9a9969df51209df798.js",
+    "precache-manifest.da2d809cfd95f7801b92188c9220169c.js": "/lolsearcher/precache-manifest.da2d809cfd95f7801b92188c9220169c.js",
     "service-worker.js": "/lolsearcher/service-worker.js",
     "static/css/main.5744efd8.chunk.css.map": "/lolsearcher/static/css/main.5744efd8.chunk.css.map",
     "static/media/bronze.png": "/lolsearcher/static/media/bronze.3ad17a20.png",
@@ -26,6 +26,6 @@
     "static/js/runtime-main.63c81fc7.js",
     "static/js/2.0fc87975.chunk.js",
     "static/css/main.5744efd8.chunk.css",
-    "static/js/main.f6f46154.chunk.js"
+    "static/js/main.814569dc.chunk.js"
   ]
 }
