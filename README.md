@@ -1,17 +1,13 @@
 # Summoner Search
 
-[Summoner Search]( http://puepis.github.io/SummonerSearchWeb) is a basic web application that uses the Riot Games API to
-retrieve and display summoner information.
+[Summoner Search]( http://puepis.github.io/SummonerSearchWeb) is a simple web app that allows users to
+perform a profile search for the game League of Legends.
 
-## Prerequisites
-To use the application, you will need to use your own Riot Games API Key and add it to the key.js file.
-
-`Note: API keys expire every 24 hours`
+### Web Server
+Check out the backend server [here](https://github.com/Puepis/SummonerSearchAPI).
 
 ## Built With
-* [React](https://reactjs.org/) - A JavaScript library used to develop web applications
-* [Riot Games API](https://developer.riotgames.com/apis) - The official Riot Games API used to retrieve profile data
+* [Create React App](https://github.com/facebook/create-react-app)
 
 ## Author
-
 * **Philips Xu**
