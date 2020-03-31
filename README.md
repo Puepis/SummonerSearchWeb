@@ -1,6 +1,6 @@
 # Summoner Search
 
-[Summoner Search]( http://Puepis.github.io/lolsearcher) is a basic web application that uses the Riot Games API to
+[Summoner Search]( http://puepis.github.io/SummonerSearchWeb) is a basic web application that uses the Riot Games API to
 retrieve and display summoner information.
 
 ## Prerequisites
