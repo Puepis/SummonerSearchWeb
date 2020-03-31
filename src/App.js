@@ -73,7 +73,10 @@ class App extends React.Component {
 
     // Render the view
     render() {
-        const { region, code, rankedData, masteryScore, basicSummonerInfo } = this.state;
+        const code = this.state.responseCode;
+        const rankedData = this.state.rankedData;
+        const basicSummonerInfo = this.state.basicSummonerInfo;
+        const masteryScore = this.state.masteryScore;
 
         return (
             <div className="App">
