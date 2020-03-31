@@ -2,6 +2,7 @@
 /* This file contains the constants that are used to construct the URL for the HTTP Request */
 
 export const URL = {
+    'server': 'https://nameless-cove-74345.herokuapp.com',
     'base': 'https://{region}.api.riotgames.com/lol/{url}',
     'summoner_by_name': 'summoner/v{version}/summoners/by-name/{summoner_name}{api_key}',
     'league_by_summoner': 'league/v{version}/entries/by-summoner/{summoner_id}{api_key}',
