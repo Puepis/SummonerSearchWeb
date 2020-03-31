@@ -61,7 +61,7 @@ class App extends React.Component {
 
             // TODO: Handle error responses
             this.setState({
-                masteryScore: masteryScoreResponse.data,
+                masteryScore: masteryScoreResponse.data.id,
                 basicSummonerInfo: summonerIDResponse.data,
                 rankedData: rankedInfoResponse.data,
                 responseCode: summonerIDResponse.status,
