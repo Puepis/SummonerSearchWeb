@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1d241143466b2b6f22fea470da6fe9de",
+    "revision": "d87c5f10023ec3bb35a8af93806a4e88",
     "url": "/SummonerSearchWeb/index.html"
   },
   {
-    "revision": "7633395d718f962f0f5a",
+    "revision": "b70de9aaa3cde6d6150a",
     "url": "/SummonerSearchWeb/static/css/main.5744efd8.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SummonerSearchWeb/static/js/2.4fba82a9.chunk.js"
   },
   {
-    "revision": "7633395d718f962f0f5a",
-    "url": "/SummonerSearchWeb/static/js/main.d4825fc6.chunk.js"
+    "revision": "b70de9aaa3cde6d6150a",
+    "url": "/SummonerSearchWeb/static/js/main.f5e81545.chunk.js"
   },
   {
     "revision": "d526cce4f3e6ab977e3c",
