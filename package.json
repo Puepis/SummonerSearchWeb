@@ -17,7 +17,6 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "proxy": "http://na1.api.riotgames.com/",
   "eslintConfig": {
     "extends": "react-app"
   },
