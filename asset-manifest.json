@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/SummonerSearchWeb/static/css/main.5744efd8.chunk.css",
-    "main.js": "/SummonerSearchWeb/static/js/main.f5e81545.chunk.js",
-    "main.js.map": "/SummonerSearchWeb/static/js/main.f5e81545.chunk.js.map",
+    "main.js": "/SummonerSearchWeb/static/js/main.759eb88f.chunk.js",
+    "main.js.map": "/SummonerSearchWeb/static/js/main.759eb88f.chunk.js.map",
     "runtime-main.js": "/SummonerSearchWeb/static/js/runtime-main.c662ca16.js",
     "runtime-main.js.map": "/SummonerSearchWeb/static/js/runtime-main.c662ca16.js.map",
-    "static/js/2.4fba82a9.chunk.js": "/SummonerSearchWeb/static/js/2.4fba82a9.chunk.js",
-    "static/js/2.4fba82a9.chunk.js.map": "/SummonerSearchWeb/static/js/2.4fba82a9.chunk.js.map",
+    "static/js/2.766164f9.chunk.js": "/SummonerSearchWeb/static/js/2.766164f9.chunk.js",
+    "static/js/2.766164f9.chunk.js.map": "/SummonerSearchWeb/static/js/2.766164f9.chunk.js.map",
     "index.html": "/SummonerSearchWeb/index.html",
-    "precache-manifest.1b8fce3c45d4622c86b466a79f0f48c2.js": "/SummonerSearchWeb/precache-manifest.1b8fce3c45d4622c86b466a79f0f48c2.js",
+    "precache-manifest.6d0465d19b7918762a5a47a7aced3d72.js": "/SummonerSearchWeb/precache-manifest.6d0465d19b7918762a5a47a7aced3d72.js",
     "service-worker.js": "/SummonerSearchWeb/service-worker.js",
     "static/css/main.5744efd8.chunk.css.map": "/SummonerSearchWeb/static/css/main.5744efd8.chunk.css.map",
     "static/media/bronze.png": "/SummonerSearchWeb/static/media/bronze.3ad17a20.png",
@@ -24,8 +24,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.c662ca16.js",
-    "static/js/2.4fba82a9.chunk.js",
+    "static/js/2.766164f9.chunk.js",
     "static/css/main.5744efd8.chunk.css",
-    "static/js/main.f5e81545.chunk.js"
+    "static/js/main.759eb88f.chunk.js"
   ]
 }
