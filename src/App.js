@@ -46,6 +46,7 @@ class App extends React.Component {
                 name: summonerName
             });
 
+            console.log(summonerIDResponse);
             // Make second HTTP request for ranked info (using id)
             const rankedInfoResponse = await axios.post(constants.URL['server'] + '/summoner/ranked/by/id', {
                 region: this.state.region,
