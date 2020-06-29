@@ -42,6 +42,11 @@ a {
     vertical-align: middle;
 }
 
+.flex-search{
+    display: flex;
+    
+
+}
 .search_bar {
     padding-top: 10px;
 }
